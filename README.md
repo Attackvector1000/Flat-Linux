@@ -1,4 +1,4 @@
-# Flat-Flat linux's first alpha
+#Flat linux's first alpha
 If you want to collaborate on the project, here is my discord:
 AttackVector2#4983
 If you find any bugs, Go to the issues section.
